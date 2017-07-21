@@ -1,1 +1,1 @@
-To run this example, just do: python -m http.server
+To run this example, just run: python -m http.server
